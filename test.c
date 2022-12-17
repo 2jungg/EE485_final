@@ -7,5 +7,5 @@ int main() {
 =======
 	printf("Hi World!!\n");
 >>>>>>> Testing
-	return 0;
+	return 1;
 }
